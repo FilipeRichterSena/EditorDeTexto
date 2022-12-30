@@ -1,0 +1,15 @@
+C:\teste\vscode\EditorDeTexto\bin\Debug\net7.0\EditorDeTexto.exe
+C:\teste\vscode\EditorDeTexto\bin\Debug\net7.0\EditorDeTexto.deps.json
+C:\teste\vscode\EditorDeTexto\bin\Debug\net7.0\EditorDeTexto.runtimeconfig.json
+C:\teste\vscode\EditorDeTexto\bin\Debug\net7.0\EditorDeTexto.dll
+C:\teste\vscode\EditorDeTexto\bin\Debug\net7.0\EditorDeTexto.pdb
+C:\teste\vscode\EditorDeTexto\obj\Debug\net7.0\EditorDeTexto.csproj.AssemblyReference.cache
+C:\teste\vscode\EditorDeTexto\obj\Debug\net7.0\EditorDeTexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\teste\vscode\EditorDeTexto\obj\Debug\net7.0\EditorDeTexto.AssemblyInfoInputs.cache
+C:\teste\vscode\EditorDeTexto\obj\Debug\net7.0\EditorDeTexto.AssemblyInfo.cs
+C:\teste\vscode\EditorDeTexto\obj\Debug\net7.0\EditorDeTexto.csproj.CoreCompileInputs.cache
+C:\teste\vscode\EditorDeTexto\obj\Debug\net7.0\EditorDeTexto.dll
+C:\teste\vscode\EditorDeTexto\obj\Debug\net7.0\refint\EditorDeTexto.dll
+C:\teste\vscode\EditorDeTexto\obj\Debug\net7.0\EditorDeTexto.pdb
+C:\teste\vscode\EditorDeTexto\obj\Debug\net7.0\EditorDeTexto.genruntimeconfig.cache
+C:\teste\vscode\EditorDeTexto\obj\Debug\net7.0\ref\EditorDeTexto.dll
